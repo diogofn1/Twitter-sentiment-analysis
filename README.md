@@ -1,4 +1,4 @@
-# Twitter-sentiment-analysis
+# Twitter sentiment analysis
 
 # Project overview
 
